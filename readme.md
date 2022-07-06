@@ -36,7 +36,7 @@ docker pull pmirnc/pororo-image:latest
 4. github 문서 참조하여 실행해보시면 됩니다
 <br/><br/>
 깃허브
-[https://github.com/kakaobrain/pororo/blob/master/README.ko.md](https://github.com/kakaobrain/pororo/blob/master/README.ko.md)
+https://github.com/kakaobrain/pororo/blob/master/README.ko.md
 <br/>
 Documentation
-[https://kakaobrain.github.io/pororo/](https://kakaobrain.github.io/pororo/)
+https://kakaobrain.github.io/pororo
